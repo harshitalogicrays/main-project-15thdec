@@ -1,0 +1,17 @@
+.carousel-inner > .item {
+    position: relative;
+    max-height: 600px;
+}
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-40%);
+    
+}
+.carousel-caption h3 {
+    font-size: 30px;
+
+}
+.carousel-caption p {
+    font-size: 20px;
+}

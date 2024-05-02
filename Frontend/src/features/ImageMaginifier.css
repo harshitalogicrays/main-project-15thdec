@@ -1,0 +1,24 @@
+.div1 {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f3f3f3;
+  }
+
+.img-magnifier-container {
+    position: relative;
+  }
+  
+  .magnifier-img {
+    width: auto;
+    height: 80vh;
+  }
+  
+  .magnifier-image {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #fff;
+  }
